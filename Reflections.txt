@@ -1,0 +1,16 @@
+Git Commands:
+
+Git Add - Add a file / folder to the staging area
+Git Clone - Create a copy of an existing repository - add in its file path or url
+Git Commit - make a commit
+Git Diff - Look at the differences between repositories at a certain time - even same documents from a commit. If no arguments added, then Git compares staged and working directory
+Git Diff --staged - look at the diff between staged and latest commit
+Git Init - Initialize a git repository in a directory
+Git Log - Look at the Log of all previous commits and messages 
+Git Merge - Merge 2 Branches
+Git Status - View the status of files in the staging area and working directory
+
+Terms:
+Branches - Copy of repositories at a certain commit time, exist in conjunction with the main working repository
+Staging Area - Intermediary area where files can be added, viewed, removed, before a commit is made
+Working Directory - Original file directory where uncommited documents are held
